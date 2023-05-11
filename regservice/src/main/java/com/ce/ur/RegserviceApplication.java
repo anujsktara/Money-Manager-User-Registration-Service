@@ -13,6 +13,7 @@ public class RegserviceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(RegserviceApplication.class, args);
 		LOGGER.info("***********insertMovie action called..");
+		LOGGER.info("***********insertMovie action called..");
 	}
 
 }
